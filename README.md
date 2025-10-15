@@ -5,15 +5,15 @@ Esse projeto se dedica a investigar o quão singular é essa propriedade da capi
 
 ## Metodologia
 
---> Coleta de dados
---> Pré-processamento
---> Criação do Indíce de Bares por Cidade (IBC)
---> Análise exploratória
---> visualização
+- Coleta de dados
+- Pré-processamento
+- Criação do Indíce de Bares por Cidade (IBC)
+- Análise exploratória
+- visualização
 
 ## Estrutura do repositório
 
-´´´bh-botecos/
+~~~bh-botecos/
 │
 ├── data/
 │ ├── processed/
@@ -24,4 +24,4 @@ Esse projeto se dedica a investigar o quão singular é essa propriedade da capi
 ├── src/
 │
 ├── README.md
-└── requirements.txtgit pull --rebase origin main´´´
+└── requirements.txtgit pull --rebase origin main~~~
