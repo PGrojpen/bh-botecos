@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# bh-botecos
-=======
 ## Resumo
 
 Belo Horizonte tem fama de ser a capital com mais bares do Brasil, de fato, ela parece ter bares em todas esquinas.
@@ -16,7 +13,7 @@ Esse projeto se dedica a investigar o quão singular é essa propriedade da capi
 
 ## Estrutura do repositório
 
-bh-botecos/
+´´´bh-botecos/
 │
 ├── data/
 │ ├── processed/
@@ -27,5 +24,4 @@ bh-botecos/
 ├── src/
 │
 ├── README.md
-└── requirements.txt
->>>>>>> d109dc6 (Read me)
+└── requirements.txtgit pull --rebase origin main´´´
