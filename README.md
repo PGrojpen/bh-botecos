@@ -13,7 +13,8 @@ Esse projeto se dedica a investigar o quão singular é essa propriedade da capi
 
 ## Estrutura do repositório
 
-~~~bh-botecos/
+~~~
+bh-botecos/
 │
 ├── data/
 │ ├── processed/
@@ -24,4 +25,5 @@ Esse projeto se dedica a investigar o quão singular é essa propriedade da capi
 ├── src/
 │
 ├── README.md
-└── requirements.txtgit pull --rebase origin main~~~
+└── requirements.txtgit pull --rebase origin main
+~~~
