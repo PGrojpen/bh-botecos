@@ -25,5 +25,5 @@ bh-botecos/
 ├── src/
 │
 ├── README.md
-└── requirements.txtgit pull --rebase origin main
+└── requirements.txt
 ~~~
